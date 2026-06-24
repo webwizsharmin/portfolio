@@ -1,5 +1,26 @@
 @import "tailwindcss";
 
+@theme {
+  --color-bg: #0f172a;
+  --color-surface: #1e293b;
+  --color-surface2: #263348;
+  --color-border: #2d3f5a;
+  --color-text: #f8fafc;
+  --color-muted: #94a3b8;
+  --color-accent: #38bdf8;
+  --color-accent-dim: #0ea5e9;
+  --color-accent-glow: rgba(56, 189, 248, 0.15);
+
+  --font-inter: "Inter", system-ui, sans-serif;
+
+  /* Spacing tokens */
+  --spacing-section: 5rem; /* for vertical section padding */
+  --spacing-container: 5%; /* for horizontal container padding */
+
+  /* Shadows */
+  --shadow-glow: 0 0 25px var(--color-accent-glow);
+}
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
