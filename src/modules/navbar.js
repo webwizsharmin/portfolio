@@ -7,7 +7,10 @@ export function renderNavbar() {
       <a href="#hero" class="text-lg font-bold text-text"
         >Sharmin<span class="text-accent"> Aktar</span></a
       >
-      <ul id="nav-links" class="hidden md:flex gap-8 text-muted">
+      <ul id="nav-links" class="hidden flex-col   md:flex gap-8 text-muted text-sm absolute top-16 left-0 right-0
+           bg-surface p-6  
+            md:flex-row md:static md:p-0 md:bg-transparent
+      ">
         <li><a href="#projects" class="hover:text-text">Projects</a></li>
         <li><a href="#skills" class="hover:text-text">Skills</a></li>
         <li><a href="#process" class="hover:text-text">Process</a></li>
@@ -16,7 +19,7 @@ export function renderNavbar() {
       </ul>
       <a id='hireBtn'
         href="#contact"
-        class="hidden md:inline-block bg-accent text-bg px-4 py-2 rounded-lg hover:bg-accent-dim shadow-glow"
+        class="hidden text-sm md:inline-block bg-accent text-bg px-4 py-2 rounded-lg hover:bg-accent-dim shadow-glow"
         >Hire me</a
       >
      
