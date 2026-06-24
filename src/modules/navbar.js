@@ -19,7 +19,7 @@ export function renderNavbar() {
       </ul>
       <a id='hireBtn'
         href="#contact"
-        class="hidden text-sm md:inline-block bg-accent text-bg px-4 py-2 rounded-lg hover:bg-accent-dim shadow-glow"
+        class="hidden text-[.85rem] font-medium md:inline-block bg-accent text-bg px-3.5 py-1.5 rounded-lg hover:bg-accent-dim shadow-glow"
         >Hire me</a
       >
      
