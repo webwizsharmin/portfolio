@@ -1,21 +1,22 @@
 export function renderNavbar() {
   const nav = document.createElement("nav");
   nav.className =
-    "fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-[var(--spacing-container)] h-16 border-b border-border backdrop-blur-md";
+    "fixed top-0 inset-x-0 z-50 flex items-center justify-between px-6 md:px-12  h-16 bg-bg/80  border-b border-border backdrop-blur-md transition-all duration-300";
   nav.innerHTML = `
     
-      <a href="#hero" class="text-lg font-bold text-text"
-        >Sharmin<span class="text-accent"> Aktar</span></a
-      >
-      <ul id="nav-links" class="hidden flex-col   md:flex gap-8 text-muted text-sm absolute top-16 left-0 right-0
+      <a href="#hero" class="text-base font-bold text-text tracking-tight" >
+       Sharmin <span class="text-accent"> Aktar</span>
+        </a>
+      <ul id="nav-links" class="hidden flex-col items-start space-y-4 text-muted text-sm
+           absolute top-16 left-0 right-0
            bg-surface p-6  
-            md:flex-row md:static md:p-0 md:bg-transparent
+           md:flex md:flex-row md:space-y-0 md:space-x-8 md:items-center md:static md:p-0 md:bg-transparent
       ">
-        <li><a href="#projects" class="hover:text-text">Projects</a></li>
-        <li><a href="#skills" class="hover:text-text">Skills</a></li>
-        <li><a href="#process" class="hover:text-text">Process</a></li>
-        <li><a href="#learning" class="hover:text-text">Learning</a></li>
-        <li><a href="#contact" class="hover:text-text">Contact</a></li>
+        <li><a href="#projects" class="hover:text-text ">Projects</a></li>
+        <li><a href="#skills" class="hover:text-text ">Skills</a></li>
+        <li><a href="#process" class="hover:text-text ">Process</a></li>
+        <li><a href="#learning" class="hover:text-text ">Learning</a></li>
+        <li><a href="#contact" class="hover:text-text ">Contact</a></li>
       </ul>
       <a id='hireBtn'
         href="#contact"
