@@ -1,14 +1,15 @@
 export function renderNavbar() {
   const nav = document.createElement("nav");
   nav.className =
-    "fixed top-0 inset-x-0 z-50 flex items-center justify-between px-6 md:px-12  h-16 bg-bg/80  border-b border-border backdrop-blur-md transition-all duration-300";
+    "fixed top-0 inset-x-0 z-50 flex items-center justify-between px-6 md:px-12  h-16 bg-bg/80  border-b border-border shadow-md backdrop-blur-md transition-all duration-300";
+
   nav.innerHTML = `
     
       <a href="#hero" class="text-base font-bold text-text tracking-tight" >
        Sharmin <span class="text-accent"> Aktar</span>
         </a>
       <ul id="nav-links" class="hidden flex-col items-start space-y-4 text-muted text-sm
-           absolute top-16 left-0 right-0
+           absolute top-16 -left-6 -right-6
            bg-surface p-6  
            md:flex md:flex-row md:space-y-0 md:space-x-8 md:items-center md:static md:p-0 md:bg-transparent
       ">
