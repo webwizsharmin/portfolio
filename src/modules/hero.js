@@ -17,7 +17,7 @@ export function renderHero() {
         class="text-accent text-sm font-semibold tracking-widest uppercase mb-5">
         Frontend Developer
         </p>
-        <h1 class="text-7xl  md:text-10xl font-extrabold leading-[1.05] tracking-tight mb-6">
+        <h1 class="text-7xl  md:text-9xl font-extrabold  mb-6">
         I craft interfaces <br>
         <span class="text-accent"> people love</span>
         <span id="cursor" class="text-accent animate-blink">|</span>
