@@ -2,7 +2,7 @@ export function renderHero() {
   const hero = document.createElement("section");
   hero.id = "hero";
   hero.className =
-    "min-h-screen flex items-center pt-20 pb-16 px-6 md:px-12 relative overflow-hidden border-0";
+    "min-h-screen flex items-start pt-24 pb-20 px-6 md:px-12 relative overflow-hidden border-0";
   hero.innerHTML = `
 
   <div class="absolute top-0 right-0 w-150 h-150 rounded-full pointer-events-none"
@@ -17,7 +17,7 @@ export function renderHero() {
         class="text-accent text-sm font-semibold tracking-widest uppercase mb-5">
         Frontend Developer
         </p>
-        <h1 class="text-7xl  md:text-9xl font-extrabold  mb-6">
+        <h1 class="text-5xl  md:text-7xl font-extrabold leading-[1.05] tracking-tight  mb-6">
         I craft interfaces <br>
         <span class="text-accent"> people love</span>
         <span id="cursor" class="text-accent animate-blink">|</span>
