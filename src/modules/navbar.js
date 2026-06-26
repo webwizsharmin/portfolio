@@ -9,7 +9,7 @@ export function renderNavbar() {
        Sharmin <span class="text-accent"> Aktar</span>
         </a>
       <ul id="nav-links" class="hidden flex-col items-start space-y-4 text-muted text-sm
-           absolute top-16 -left-6 -right-6
+           absolute top-16 left-0 -right-6
            bg-surface p-6  
            md:flex md:flex-row md:space-y-0 md:space-x-8 md:items-center md:static md:p-0 md:bg-transparent
       ">
