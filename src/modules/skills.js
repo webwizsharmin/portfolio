@@ -84,7 +84,7 @@ export function renderSkills() {
             </div>
         </div>
         <div class="reveal bg-surface border border-border rounded-2xl p-6 hover:border-sky-400/50 transition-colors">
-            <p class="text-xs font-bold uppercase tracking-widest text-accent mb-4">Learning
+            <p class="text-xs font-bold uppercase tracking-widest text-accent mb-4">Currently Exploring
             </p>
 
             <div class="flex flex-wrap gap-2">
