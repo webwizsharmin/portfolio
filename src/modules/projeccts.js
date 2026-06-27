@@ -7,7 +7,7 @@ export function renderProjects() {
   projects.innerHTML = `
     <p class="text-accent text-xs font-semibold tracking-widest uppercase mb-3">Featured Work</p>
 
-    <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-2 mt-3"> Things I've built</h2>
+    <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-2"> Things I've built</h2>
 
     <p class="text-muted mb-12 max-w-lg">Practical projects designed to solve real problems with clean code and scalable architecture.</p>
 
