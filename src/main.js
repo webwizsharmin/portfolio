@@ -6,6 +6,7 @@ import { renderSkills } from "./modules/skills.js";
 import { renderProcess } from "./modules/process.js";
 import { renderLearning } from "./modules/learning.js";
 import { renderContact } from "./modules/contact.js";
+import { renderFooter } from "./modules/footer.js";
 
 const app = document.getElementById("app");
 app.appendChild(renderNavbar());
@@ -15,3 +16,4 @@ app.appendChild(renderSkills());
 app.appendChild(renderProcess());
 app.appendChild(renderLearning());
 app.appendChild(renderContact());
+app.appendChild(renderFooter());
