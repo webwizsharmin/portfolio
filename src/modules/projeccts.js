@@ -17,7 +17,7 @@ export function renderProjects() {
         <article class="reveal bg-surface border border-border rounded-2xl overflow-hidden hover:-translate-y-1 hover:border-accent transition-all duration-300">
         
             <div clas="border-b border-accent ">
-            <img src='../src/assets/img/clientFlow1.png'>
+            <img src='/clientFlow1.png'>
             </div>
 
             <div class="p-6">
@@ -61,7 +61,7 @@ export function renderProjects() {
         <article class="reveal bg-surface border border-border rounded-2xl overflow-hidden hover:-translate-y-1 hover:border-accent transition-all duration-300">
             
             <div>
-                <img src='../src/assets/img/portfolio.png'>
+                <img src='/portfolio.png'>
             </div>
 
              <div class="p-6">
@@ -105,7 +105,7 @@ export function renderProjects() {
         <article class="reveal bg-surface border border-border rounded-2xl overflow-hidden hover:-translate-y-1 hover:border-accent transition-all duration-300">
             
             <div>
-                <img src='../src/assets/img/landingPage.png'>
+                <img src='/landingPage.png'>
             </div>
 
              <div class="p-6">
