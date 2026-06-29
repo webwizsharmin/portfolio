@@ -1,7 +1,7 @@
 import "./style.css";
 import { renderNavbar } from "./modules/navbar.js";
 import { renderHero } from "./modules/hero.js";
-import { renderProjects } from "./modules/projeccts.js";
+import { renderProjects } from "./modules/projects.js";
 import { renderSkills } from "./modules/skills.js";
 import { renderProcess } from "./modules/process.js";
 import { renderLearning } from "./modules/learning.js";

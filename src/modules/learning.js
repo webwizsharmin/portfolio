@@ -133,7 +133,7 @@ export function renderLearning() {
                   Consistent GitHub contributions
                 </p>
                 <p class="text-xs text-muted mt-0.5">
-                  300+ commits, deployed projects on Netlify/Vercel
+                  350+ commits, deployed projects on Netlify/Vercel
                 </p>
               </div>
             </div>

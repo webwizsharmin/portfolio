@@ -41,7 +41,7 @@ export function renderProjects() {
                 </div>
 
                 <div class="flex gap-5 mt-5">
-                    <a href="https://github.com/webwizsharmin/clientflow" target="_blank"
+                    <a href="https://6a40c418d1723ce37d4f4294--incandescent-cobbler-823a8b.netlify.app/" target="_blank"
                     class="text-xs font-semibold text-accent flex items-center gap-1 hover:opacity-70 transition-opacity">
                     <i class='bx bx-link-external '></i>
                     Live demo
@@ -86,7 +86,7 @@ export function renderProjects() {
                 </div>
 
                 <div class="flex gap-5 mt-5">
-                    <a href="https://github.com/webwizsharmin/portfolio" target="_blank"
+                    <a href="https://portfolio-eta-tawny-32.vercel.app/" target="_blank"
                     class="text-xs font-semibold text-accent flex items-center gap-1 hover:opacity-70 transition-opacity">
                     <i class='bx bx-link-external '></i>
                     Live demo
