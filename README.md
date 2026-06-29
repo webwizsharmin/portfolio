@@ -46,42 +46,6 @@ A modern, responsive portfolio showcasing my projects, technical skills, and fro
 
 ---
 
-## Project Stucture
-
-```text
-portfolio/
-│
-├── public/
-|   ├── screenshots/
-|   │   ├── home.png
-|   │   ├── learning.png
-|   │   ├── skills.png
-|   │   ├── projects.png
-|   │   └── contact.png
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── sections/
-│   ├── js/
-|   |   ├── navbar.js
-|   |   ├── hero.js
-|   │   ├── projects.js
-|   │   ├── skills.js
-|   │   ├── process.js
-|   |   ├── learning.js
-|   |   ├── contact.js
-|   │   └── footer.js
-│   ├── css/
-│   └── main.js
-│
-│
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
----
-
 ## Getting Started
 
 git clone https://github.com/webwizsharmin/portfolio.git
