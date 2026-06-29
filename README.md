@@ -2,9 +2,9 @@
 
 A modern, responsive portfolio showcasing my projects, technical skills, and frontend development journey. Built with performance, accessiblity, and clean UI in mind.
 
-**Live Demo:**[Live Demo](https://portfolio-eta-tawny-32.vercel.app/)
+**Live Demo:** [Live Demo](https://portfolio-eta-tawny-32.vercel.app/)
 
-**Source Code:**https://github.com/webwizsharmin/portfolio
+**Source Code:** https://github.com/webwizsharmin/portfolio
 
 ## Preview
 
