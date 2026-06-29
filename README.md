@@ -79,7 +79,7 @@ License under the MIT License.
 
 ## Connect
 
-- **Portfolio:**[Live Demo](https://portfolio-eta-tawny-32.vercel.app/)
-- **LinkedIn:**https://linkedin.com/in/webwizsharmin
-- **GitHub:**https://github.com/webwizsharmin
-- **Email:**webwizsharmin@gmail.com
+- **Portfolio:** [Live Demo](https://portfolio-eta-tawny-32.vercel.app/)
+- **LinkedIn:** https://linkedin.com/in/webwizsharmin
+- **GitHub:** https://github.com/webwizsharmin
+- **Email:** webwizsharmin@gmail.com
