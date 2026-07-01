@@ -6,6 +6,8 @@ A modern, responsive portfolio showcasing my projects, technical skills, and fro
 
 **Source Code:** https://github.com/webwizsharmin/portfolio
 
+---
+
 ## Preview
 
 ### Home
